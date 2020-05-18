@@ -1,6 +1,6 @@
 class Vehicle
 
-  attr_accessor :wheel_size, :wheel_
+  attr_accessor :wheel_size, :wheel_number
 
 
 end
